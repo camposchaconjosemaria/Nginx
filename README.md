@@ -137,7 +137,9 @@ Estos directorios y archivos son fundamentales para entender y gestionar tu serv
 
 ## 4. Referencias
 
-https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-es
-https://marketersgroup.es/diferencias-entre-apache-y-nginx/
+[DigitalOcean - Instalación de Nginx en Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04-es)
+
+[Marketers Group - Diferencias entre Apache y Nginx](https://marketersgroup.es/diferencias-entre-apache-y-nginx/)
+
 
 ## 5. Licencia
