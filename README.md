@@ -143,3 +143,7 @@ Estos directorios y archivos son fundamentales para entender y gestionar tu serv
 
 
 ## 5. Licencia
+
+<p align="center">
+  <img src="/img/licencia.png" alt="licencia">
+</p>
